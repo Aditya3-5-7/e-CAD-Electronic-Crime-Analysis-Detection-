@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.ECAD" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.ECAD" parent="Base.Theme.ECAD" />
+
+    <style name="CircleImage">
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>

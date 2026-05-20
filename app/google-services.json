@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434244124889",
+    "project_id": "e-cad-c60e4",
+    "storage_bucket": "e-cad-c60e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434244124889:android:7079194538724fde477ec8",
+        "android_client_info": {
+          "package_name": "com.example.e_cad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiLB9_rAP2kY2_ZXF2RPmnk31W9M5vyOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
