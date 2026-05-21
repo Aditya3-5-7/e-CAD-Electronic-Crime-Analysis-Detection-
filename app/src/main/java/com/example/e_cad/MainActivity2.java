@@ -65,7 +65,7 @@ public class MainActivity2 extends AppCompatActivity {
     // Firebase Core Database Instance
     private FirebaseFirestore db;
 
-    private final String MY_API_KEY = "8162427ba45532dc1ff44b23387e0e83701a41d967735511b8f5f4cce2108c80";
+    private final String MY_API_KEY = "8162427ba45532dc1ff44b23387e0e83701a41d967735511b8f5f4cce";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
